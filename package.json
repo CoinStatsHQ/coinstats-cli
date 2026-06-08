@@ -6,6 +6,14 @@
   "bin": {
     "coinstats": "./dist/src/index.js"
   },
+  "homepage": "https://github.com/CoinStatsHQ/coinstats-cli#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CoinStatsHQ/coinstats-cli.git"
+  },
+  "bugs": {
+    "url": "https://github.com/CoinStatsHQ/coinstats-cli/issues"
+  },
   "files": [
     "dist",
     "LICENSE",
